@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000%&lines=Olá,+me+chamo+Rafael+Santos;Seja+bem-vindo(a)!+)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelps10&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=FFFFFF&bg_color=000000" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelps10&layout=compact&hide_border=true&title_color=800080&text_color=ffffff&bg_color=000000" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelps10&bg_color=000000&color=ffffff&line=3b0b6a&point=7f5695&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 ## Sobre mim:
 
 > O sonho de migrar de carreira começou no ano de 2021, onde decidi deixar a área da saúde e mergulhar no mundo da <b>tecnologia</b>.
@@ -16,9 +9,18 @@
 Conheci o universo da programação e me apaixonei. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e em paralelo, estudando <strong>Desenvolvimento de Software Fullstack</strong> pela <b>Cubos Academy</b> e, também <i>inglês</i> na <b>Go For It</b>.
 Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente estou focado no desenvolvimento <strong>Back-end</strong>. </br></br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelps10&bg_color=000000&color=ffffff&line=3b0b6a&point=7f5695&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelps10&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=FFFFFF&bg_color=000000" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelps10&layout=compact&hide_border=true&title_color=800080&text_color=ffffff&bg_color=000000" />
+</div>
+
+<br>
 
 <div align="center">
   <a href = "mailto:rafael.ps.skt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
