@@ -37,6 +37,7 @@ Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente es
 ![GitHub](https://img.shields.io/badge/GitHub-%3000000.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235834CC.svg?style=for-the-badge&logo=insomnia&logoColor=white) 
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <div align="center"> 
 <br><p align="center"><b>Contador de Visitas</b></p>
