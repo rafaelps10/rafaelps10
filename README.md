@@ -6,8 +6,8 @@
 
 > O sonho de migrar de carreira começou no ano de 2021, onde decidi deixar a área da saúde e mergulhar no mundo da <b>tecnologia</b>.
 
-Conheci o universo da programação e me apaixonei. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e em paralelo, estudando <strong>Desenvolvimento de Software Fullstack</strong> pela <b>Cubos Academy</b> e, também <i>inglês</i> na <b>Go For It</b>.
-Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente estou focado no desenvolvimento <strong>Back-end</strong>. </br></br>
+Conheci o universo da programação e me apaixonei. Sou graduado em Análise e Desenvolvimento de Sistemas, cursei por 1 nao <strong>Desenvolvimento de Software Fullstack</strong> da <b>Cubos Academy</b> e hoje estou aperfeiçoando meus conhecimentos. No presente momento estou cursando <i>inglês</i> na <b>Go For It</b>.
+Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente estou focado no desenvolvimento web <strong>Back-end</strong>. </br></br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelps10&bg_color=000000&color=ffffff&line=3b0b6a&point=7f5695&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
