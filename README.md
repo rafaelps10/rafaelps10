@@ -10,10 +10,6 @@ Conheci o universo da programação e me apaixonei. Sou graduado em Análise e D
 Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente estou focado no desenvolvimento web <strong>Back-end</strong>. </br></br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelps10&bg_color=000000&color=ffffff&line=3b0b6a&point=7f5695&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelps10&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=FFFFFF&bg_color=000000" alt="Caroline Barbosa github stats" /> 
