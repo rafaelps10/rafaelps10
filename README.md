@@ -23,7 +23,7 @@ Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente es
   <a href = "https://www.linkedin.com/in/rafaelpintosantos/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-### 👨‍💻 Tecnologias e ferramentas que possuo conhecimento e estou estudando:
+### 👨‍💻 Tecnologias e ferramentas que possuo conhecimento:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </br></br>
