@@ -4,10 +4,9 @@
 
 ## Sobre mim:
 
-> O sonho de migrar de carreira começou no ano de 2021, onde decidi deixar a área da saúde e mergulhar no mundo da <b>tecnologia</b>.
-
-Conheci o universo da programação e me apaixonei. Sou graduado em Análise e Desenvolvimento de Sistemas, cursei por 1 nao <strong>Desenvolvimento de Software Fullstack</strong> da <b>Cubos Academy</b> e hoje estou aperfeiçoando meus conhecimentos. No presente momento estou cursando <i>inglês</i> na <b>Go For It</b>.
-Hoje estou muito satisfeito com a escolha da minha nova carreira e atualmente estou focado no desenvolvimento web <strong>Back-end</strong>. </br></br>
+Olá! Sou Rafael, um entusiasta de tecnologia e apaixonado por games, sempre buscando desafios que me impulsionem a aprender e evoluir. Minha trajetória começou na área da saúde, onde desenvolvi habilidades de análise crítica, tomada de decisão e empatia no cuidado com as pessoas. No entanto, minha curiosidade pela tecnologia sempre esteve presente, e foi essa paixão que me levou a fazer esta grande transição para o mundo da programação e do desenvolvimento de software.
+Hoje, mergulho de cabeça no universo da tecnologia, explorando desenvolvimento de software. Acredito que a interseção entre saúde e tecnologia tem um potencial incrível para melhorar a vida das pessoas, e estou animado para fazer parte dessa revolução.
+Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos. Se quiser trocar ideias sobre programação, games ou inovação tecnológica, fique à vontade para me chamar! 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelps10&bg_color=000000&color=ffffff&line=3b0b6a&point=7f5695&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
