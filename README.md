@@ -34,10 +34,4 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos. Se quise
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235834CC.svg?style=for-the-badge&logo=insomnia&logoColor=white) 
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center"> 
-<br><p align="center"><b>Contador de Visitas</b></p>
-<p align="center"><img align="center" src="http://profile-counter.glitch.me/{rafaelps10}/count.svg" /></p>
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
